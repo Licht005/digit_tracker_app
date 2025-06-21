@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.tmp
+
+# Environments
+.env
+.venv/
+env/
+venv/
+*.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# PyTorch model
+mnist_model.pth
+
+# VSCode or PyCharm
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
