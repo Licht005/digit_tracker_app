@@ -23,7 +23,7 @@ Draw a digit in the box using your index finger, then press:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/real-time-digit-detector.git
+   git clone https://github.com/licht005/real-time-digit-detector.git
    cd real-time-digit-detector
    ```
 
