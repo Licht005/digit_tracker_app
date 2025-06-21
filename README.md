@@ -62,13 +62,6 @@ Draw a digit in the box using your index finger, then press:
 - `.gitignore` — Ignored files/folders
 - `README.md` — Project overview and usage
 
----
-
-## 🚀 Future Ideas
-
-- Upgrade to a CNN for better performance
-- Live prediction (no need to press 'r')
-- Export to Streamlit or web-based UI
 
 ---
 
